@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	router := routers.NewRouter()
+	router := routers.Router()
 
 	s := &http.Server{
 		Addr:    ":8080",

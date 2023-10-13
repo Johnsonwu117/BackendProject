@@ -1,3 +1,5 @@
 這是後端測試題目
 ＡPI 測試
 1. 請使用 Postman 或其他工具測試 API
+2. 請使用以下 API 測試
+GET http://localhost:8080/?source=USD&target=JPY&amount=1525
